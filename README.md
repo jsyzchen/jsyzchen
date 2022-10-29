@@ -1,8 +1,8 @@
 ### Hi, I'm Jsyz Chen 👋
 
 - ⚡ Languages Go / PHP
-- 🌱 I’m currently learning Docker, Vue
-- 📫 How to reach me chenchenjsyz@163.com
+- 🌱 I’m currently learning RabbitMQ
+- 📫 How to reach me jsyzchenchen@gmail.com
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=jsyzchen)]()
 
